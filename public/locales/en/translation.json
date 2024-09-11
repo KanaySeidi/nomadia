@@ -1,0 +1,27 @@
+{
+    "Home" : "Home",
+    "Kyrgyzstan" : "Kyrgyzstan",
+    "CentralAsia" : "Central Asia",
+    "About": "About",
+    "Contact": "News",
+    "banner" : {
+        "explore" : "Explore Kyrgyzstan",
+        "slogan" : "Land of Majestic Peaks and Warm Hearts"
+    },
+    "lost": "Look like you're lost",
+    "notAvailabel" : "The page you are looking for is not available!",
+    "goHome" : "Go To Home",
+    "HeartOfCA": "The Heart of Central Asia",
+    "sliderTitle1": "Mountain Paradise:",
+    "sliderDesc1" : "Kyrgyzstan is often called the 'Switzerland of Central Asia' due to its majestic Tien Shan and Pamir-Alai mountains. The highest point of the country is Pobedy Peak (7439 meters), which attracts climbers from all over the world",
+    "sliderTitle2" : "Issyk-Kul is the pearl of Kyrgyzstan:",
+    "sliderDesc2" : "The second largest salt lake in the world, Issyk-Kul, is one of the main attractions of the country. The lake does not freeze even in winter and is surrounded by magnificent mountains, which creates a unique microclimate and ideal conditions for recreation",
+    "sliderTitle3" : "Rich cultural heritage:",
+    "sliderDesc3" : "Kyrgyz culture dates back more than 2000 years. It includes traditional crafts such as carpet weaving and jewelry making, as well as unique festivals such as Nauryz and the festival of nomadic culture, where you can see traditional games, music and dancing",
+    "sliderTitle4" : "Delicious cuisine:",
+    "sliderDesc4" : "Kyrgyz cuisine is a reflection of nomadic life, with dishes that are easy to cook in field conditions. Try pilaf, lagman, manti and, of course, kurut — dried sour milk balls",
+    "sliderTitle5" : "Kyrgyz hospitality:",
+    "sliderDesc5" : "Hospitality is one of the most important aspects of Kyrgyz culture. Tourists can stay in traditional yurts, taste national dishes and even take part in nomadic life, which makes traveling around Kyrgyzstan a unique and unforgettable experience",
+    "sliderTitle6" : "Historical sites:",
+    "sliderDesc6" : "Kyrgyzstan has many historical monuments, including the city of Balasagun, an ancient trade center on the Great Silk Road, and the Burana Tower, which has been preserved since the XI century"
+}

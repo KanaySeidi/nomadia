@@ -1,0 +1,9 @@
+export { Main } from "./main/Main.async";
+export { Kyrgyzstan } from "./kyrgyzstan/Kyrgyzstan.async";
+export { CentralAsia } from "./central/CentralAsia.async";
+export { About } from "./about/About.async";
+export { Contact } from "./contact/Contact.async";
+export { Tadjikistan } from "./country/tadjikistan/Tadjikistan.async";
+export { Kazahstan } from "./country/kazahstan/Kazahstan.async";
+export { Uzbekistan } from "./country/uzbekistan/Uzbekistan.async";
+export { Turkmenistan } from "./country/turkmenistan/Turkmenistan.async";
